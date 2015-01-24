@@ -24,6 +24,7 @@ Interesting Articles I want to digest
 ----------
 
 * http://dev.filkor.org/2013/04/14/create-an-interactive-map-using-javascript-and-html-5-canvas/
+* https://mike-bland.com/2011/10/25/testing-on-the-toilet.html
 
 Challenges
 ----------
