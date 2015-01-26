@@ -7,30 +7,33 @@ Areas that need improvement
 ----------
 
 * Databases - Data Mapper / Active Record
-* CSS and front end CSS frameworks
 * Javascript, JQuery, JSON, AJAX 
 * Jasmine testing
 * Node
 * SVG files handling, D3.js
 * API integration: Github
+* CSS
 
 Books I'm planning to read
 ----------
 
 * Professional Javascript for Web Developers - Nicholas C. Zakas
 * http://svgpocketguide.com/
+* http://javascriptbook.com/
+* POODR 
 
 Interesting Articles I want to digest
 ----------
 
 * http://dev.filkor.org/2013/04/14/create-an-interactive-map-using-javascript-and-html-5-canvas/
 * https://mike-bland.com/2011/10/25/testing-on-the-toilet.html
+* http://www.butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata
 
 Challenges
 ----------
 
-* Write a facebook-like application in Node with js, for maker students (with Ptolemy & TBD )
-* Write a winrisk game (with Jin)
+* Write a facebook-like application in Node with js, for maker students
+* Write a winrisk/geolocator (map related game)
 * Style personal homepage (sandagolcea.me)
 * Personal project : PairOrNot - in ruby (low prio)
 
@@ -51,5 +54,5 @@ Tidy up unfinished work:
 
 * Make sure all my projects are tested (testing for RPS and (?)takeaway)
 * CSS for some of the previous projects: chitter, my thermostat, bookmarks
-* Chatterbot : clear project
+* Chatterbot : clean & clear project
 * Check all projects are ok: documented, tested, running and humanely looking
